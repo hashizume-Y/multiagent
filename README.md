@@ -1,2 +1,2 @@
-# multiagent
+# AIマルチエージェント入門 -Claude Codeで学ぶ「AI専門家チーム」の作り方-
 Udemyコース「AIマルチエージェント入門 -Claude Codeで学ぶ「AI専門家チーム」の作り方-」で使用するコマンド+プロンプト集です。
