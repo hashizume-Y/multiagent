@@ -25,7 +25,7 @@
   cd ~/multi-agent-course
   uv run python --version
   uv add fastapi uvicorn sqlmodel httpx
-
+　　
 ■ 開発用パッケージの追加
   uv add --dev pytest pytest-asyncio
 
@@ -33,6 +33,7 @@
   cat pyproject.toml
 
 ■ CLAUDE.md に追記する内容
+　　→ CLAUDE.mdは全体の共通ルール。ここに全Agentが共通して利用するルールを記載する必要がある。
 ─────────────────────────────
 ## API開発ルール
 - WebフレームワークはFastAPIを使用する
